@@ -101,6 +101,7 @@
 - [telnyx-10dlc](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-10dlc/SKILL.md) - Register for 10DLC as a sole proprietor to enable SMS messaging in the USA.
 - [tiktok-trend-challenger](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-trend-challenger/SKILL.md) - Hire TikTok creators to participate in trending hashtags, viral challenges, and cultural moments to boost brand.
 - [tiktok-viral-marketing](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-viral-marketing/SKILL.md) - Hire TikTok creators who specialize in viral content creation, trending challenges, and explosive reach campaigns.
+- [tweetclaw](https://github.com/Xquik-dev/tweetclaw) - Full X/Twitter automation for OpenClaw — post tweets, reply, like, retweet, follow, DM & 40+ tools
 - [transition-mcp](https://github.com/openclaw/skills/tree/main/skills/nftechie/transition-mcp/SKILL.md) - AI-powered multisport coaching — get personalized workouts, training plans, and performance analytics for running.
 - [ttrpg-gm](https://github.com/openclaw/skills/tree/main/skills/rogerkink6/ttrpg-gm/SKILL.md) - TTRPG Game Master for mature dark-themed campaigns.
 - [water-coach](https://github.com/openclaw/skills/tree/main/skills/oristides/water-coach/SKILL.md) - Hydration tracking and coaching skill.
